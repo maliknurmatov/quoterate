@@ -1,0 +1,20 @@
+{
+  "name": "quoterate",
+  "version": "0.0.1",
+  "description": "Quoterate Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quote",
+    "rate",
+    "price",
+    "compare",
+    "javascript",
+    "node",
+    "rest"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "BSD-2-Clause"
+}
